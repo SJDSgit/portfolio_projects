@@ -1,4 +1,4 @@
-We explore an online retail dataset and create a retention cohort analysis in SQL and Tableau. 
+Explored an online retail dataset and create a retention cohort analysis in SQL and Tableau. 
 
 Tasks:
  

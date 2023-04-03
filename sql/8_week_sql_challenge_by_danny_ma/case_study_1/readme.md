@@ -1,4 +1,5 @@
 # **🍜 Case Study #1: Danny's Diner**
+[Case Study #1: Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 ![](https://user-images.githubusercontent.com/99239384/229413595-99503aee-fa66-4dbd-aced-65c6e0c8af9d.png)
 
 ## **Business Task**

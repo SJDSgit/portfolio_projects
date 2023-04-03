@@ -9,4 +9,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 ![ERP Diagram](https://user-images.githubusercontent.com/99239384/229414465-1323482c-4652-49fb-ad92-5f56926d198d.png)
 
 ## **Solution**
-[SQL file]()
+[SQL file](https://github.com/SJDSgit/portfolio_projects/blob/main/sql/8_week_sql_challenge_by_danny_ma/case_study_1/solution.sql)

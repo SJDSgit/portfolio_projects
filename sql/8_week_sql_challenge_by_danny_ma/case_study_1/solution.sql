@@ -17,7 +17,7 @@
 
 
 
-ANSWER
+Solution
 
 select * from dannys_diner.sales;
 select * from dannys_diner.menu;
